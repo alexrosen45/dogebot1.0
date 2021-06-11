@@ -1,0 +1,2 @@
+# dogebot1.0
+This is a trading bot that buys and holds dogecoin for 1 hour after Elon Musk tweets about it. doge_keys_tokens is where you put the tweepy API key, secret key, access token, and access token secret. Headers is where you put a Coin Market Cap API key. For the buy function of the class Dogebot you can write the code to put a 1hr limit order on dogecoin using your crypto wallet or service. Dogebot 1.1 will hopefully be able to collect data to determine, by itself, the optimal time to hold doge for after he tweets.
