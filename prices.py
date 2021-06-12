@@ -1,7 +1,7 @@
 import requests
 
 headers = {
-    'X-CMC_PRO_API_KEY': '33f878bf-2ad0-454e-b4db-de31d315a83c',
+    'X-CMC_PRO_API_KEY': '',
     'Accepts': 'application/json'
 }
 
