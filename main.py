@@ -4,10 +4,10 @@ from dogebot import Dogebot
 import csv
 
 doge_keys_tokens = [
-    "vzpBzTMrS5C62VN2BpDQwRZOd",
-    "sFcRWsEOrofF7aMnsYs53z4P2LJFZftO7FAdz95IPZuRswqR2V",
-    "1395390371358814210-fzlssXKC5tWMYB74ZQjxSgMHYPTqfX",
-    "bO2WvOFZ6qdZrT91IF97HXQlEdhUJuFNSkAi7WMVSj3BI"
+    "",
+    "",
+    "",
+    ""
 ]
 
 timer = 0
